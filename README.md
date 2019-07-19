@@ -6,3 +6,7 @@
   - SWOT
   - PEST
   - 波特五力
+ 
+## 编程模式
+
+- [actor](./pattern/actor/README.md)
